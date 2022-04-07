@@ -23,7 +23,7 @@ user_id = '35'
 def mysql(query):
     """Input: текст SQL запроса
        Output: Dataframe"""
-    host = 'mysql-master.yarustech.ru'
+    host = 'mysql-master.........ru'
     port = '3306'
     database = 'itservice'
     username = 'admin'
